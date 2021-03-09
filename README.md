@@ -5,6 +5,7 @@ By Andrei Neagoie, at https://www.udemy.com/course/the-complete-web-developer-ze
 
 This Project is a user interface made with react where there are different profiles displayed of robot friends,
 you can use the search bar to filter through your robot friends.
+The application can also be found on this netifly link https://ismail-robofriends.netlify.app/
 To run the project:
 
 1. Clone this repo
